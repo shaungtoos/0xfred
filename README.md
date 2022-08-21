@@ -21,18 +21,17 @@
 </br>
 </br>
 </br>
+<p align='center'>
 <a href="https://github.com/0xfred/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xfred&bg_color=30,e96443,904e95&title_color=fff&&count_private=true&include_all_commits=true&text_color=fff" />
 </a>
+</p>
 </br>
-
-</br>
-
+<p align='center'>
 <a href="https://github.com/0xfred">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfred&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-</br>
-</br>
+</p>
 
 ## 🛠  Technologies and tools
 
