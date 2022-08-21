@@ -1,6 +1,5 @@
 
 
-
 <div align="center">
    <h1>Hi there, I'm <a href="https://github.com/0xfred">Fred</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -22,14 +21,16 @@
 </br>
 </br>
 </br>
-<p align='center'>
 <a href="https://github.com/0xfred/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xfred&bg_color=30,e96443,904e95&title_color=fff&&count_private=true&include_all_commits=true&text_color=fff" />
 </a>
+</br>
+
+</br>
+
 <a href="https://github.com/0xfred">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfred&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-</p>
 </br>
 </br>
 
